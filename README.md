@@ -11,6 +11,7 @@ NodeJs(app dev), standard(styling/linting), jest(for tests)
 3. run "npm start" to run the app
 4. run "npm test" to run the tests
 
+Note: The app is accessible on http://localhost:3000/
 
 # Usage:
 To manage players, click on
